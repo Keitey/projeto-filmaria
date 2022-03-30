@@ -8,9 +8,10 @@ Este projeto faz parte dos estudos de React, trata-se de uma site com uma compil
   💻Biblioteca axios;
   💻React-toastify;
   💻useEffect e useState;
- 
   
 </h3>
+
+<p>Você pode conferir o projeto aqui: https://keitey-filmaria-react.netlify.app/ </p>
 
 
 <p align="center">
