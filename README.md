@@ -14,5 +14,5 @@ Este projeto faz parte dos estudos de React, trata-se de uma site com uma compil
 
 
 <p align="center">
-  <img width="470" src="gif/githubpages.gif">
+  <img width="470" src="gif/filmaria.gif">
 </p>
